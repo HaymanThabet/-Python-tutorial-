@@ -1,2 +1,2 @@
-# hello-world
- Just a repository
+# First Course in Python with Jupyter
+
